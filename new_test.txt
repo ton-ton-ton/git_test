@@ -5,5 +5,3 @@ signature (git_test/main)
 signature (git_test/branch_A)
 
 signature by git_test/main
-
-
