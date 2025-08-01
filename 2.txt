@@ -2,4 +2,5 @@ fix some bug (origin/main)
 
 developing some feature (branch_A) 
 
+developing some feature2 (branch_A) 
 
